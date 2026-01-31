@@ -1,19 +1,33 @@
 # Privacy-Preserving Skeleton-Based Analysis of Visitor Behavior in Museums
 
-Repository with the dataset and code use for the publication "Privacy-Preserving Skeleton-Based Analysis of Visitor Behavior in Museums" as part of the CoMoRe-AI 2026 Workshop within the 24th Annual IEEE Intl. Conference on Pervasive Computing and Communications (CoMoRe-AI Workshop) in Pisa, Italy. 
+This repository provides the supplementary material for the paper:
+
+**Privacy-Preserving Skeleton-Based Analysis of Visitor Behavior in Museums**,  
+accepted at the **CoMoRe-AI 2026 Workshop**, held in conjunction with the **24th IEEE International Conference on Pervasive Computing and Communications (PerCom 2026)**, Pisa, Italy.
+
+The repository contains the dataset and analysis code used to support the results reported in the paper.
 
 ## Dataset
-You can find the dataset in Zenodo [link to repository](https://doi.org/10.5281/zenodo.18442234).
+
+The dataset is publicly available on Zenodo:
+
+https://doi.org/10.5281/zenodo.18442234
+
+It contains anonymized, privacy-preserving skeleton data collected in a museum environment, suitable for the analysis of visitor behavior without personal identification.
 
 ## Code
-In this repository, you will find:
 
-- the Jupiter Notebook used to analyse the skeleton data.
-- the visualization tool used to animate the skeleton data.
+This repository includes:
 
-## Disclaimer
-If you use the data, or the code in your publications, remember to cite the works related:
+- A Jupyter Notebook used for preprocessing and analysis of the skeleton data.
+- A visualization tool for animating and inspecting skeleton trajectories and interactions.
 
-Sosa-León, V. A. L., Mukhametov, S., Trilles, S., Huerta, J., & Torres-Sospedra, J. (2026). Privacy-Preserving Skeleton-Based Analysis of Visitor Behavior in Museums [Data set]. CoMoRe-AI Workshop within the 24th Annual IEEE Intl. Conference on Pervasive Computing and Communications (CoMoRe-AI Workshop), Pisa, Italy. Zenodo. https://doi.org/10.5281/zenodo.18442234
+The code is provided to support transparency, reproducibility, and further research based on the published work.
 
-(Soon citation from the IEEE Explore conference Proceedings)
+## Citation
+
+If you use the dataset or the code in academic work, cite the following references:
+
+- *Dataset*: Sosa-León, V. A. L., Mukhametov, S., Trilles, S., Huerta, J., & Torres-Sospedra, J. (2026). *Privacy-Preserving Skeleton-Based Analysis of Visitor Behavior in Museums* [Data set]. CoMoRe-AI Workshop at the 24th IEEE International Conference on Pervasive Computing and Communications (PerCom). Zenodo. https://doi.org/10.5281/zenodo.18442234
+
+- *Conference Paper*: The corresponding paper citation from the IEEE Xplore conference proceedings will be added once available.
